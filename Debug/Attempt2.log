@@ -1,0 +1,23 @@
+﻿  Controller.c
+c:\users\robert\desktop\facultate\facultate semestrul 2\oop\attempt2\attempt2\controller.c(100): warning C4013: 'printf' undefined; assuming extern returning int
+c:\users\robert\desktop\facultate\facultate semestrul 2\oop\attempt2\attempt2\controller.c(108): warning C4013: 'searchStringCategory' undefined; assuming extern returning int
+c:\users\robert\desktop\facultate\facultate semestrul 2\oop\attempt2\attempt2\controller.c(108): warning C4047: 'initializing': 'DynamicArray *' differs in levels of indirection from 'int'
+c:\users\robert\desktop\facultate\facultate semestrul 2\oop\attempt2\attempt2\controller.c(200): warning C4020: 'deleteProductCtrl': too many actual parameters
+  DynamicArray.c
+  main.c
+  OperationsStack.c
+c:\users\robert\desktop\facultate\facultate semestrul 2\oop\attempt2\attempt2\operationsstack.c(90): warning C4033: 'pop' must return a value
+  Product.c
+  ProductRepository.c
+c:\users\robert\desktop\facultate\facultate semestrul 2\oop\attempt2\attempt2\productrepository.c(86): warning C4013: 'printf' undefined; assuming extern returning int
+  UI.c
+c:\users\robert\desktop\facultate\facultate semestrul 2\oop\attempt2\attempt2\ui.c(160): warning C4013: 'orderQuantityCtrl' undefined; assuming extern returning int
+c:\users\robert\desktop\facultate\facultate semestrul 2\oop\attempt2\attempt2\ui.c(160): warning C4047: 'initializing': 'DynamicArray *' differs in levels of indirection from 'int'
+c:\users\robert\desktop\facultate\facultate semestrul 2\oop\attempt2\attempt2\ui.c(180): warning C4013: 'orderNameCtrl' undefined; assuming extern returning int
+c:\users\robert\desktop\facultate\facultate semestrul 2\oop\attempt2\attempt2\ui.c(180): warning C4047: 'initializing': 'DynamicArray *' differs in levels of indirection from 'int'
+c:\users\robert\desktop\facultate\facultate semestrul 2\oop\attempt2\attempt2\ui.c(212): warning C4013: 'displayByCategoryCtrl' undefined; assuming extern returning int
+c:\users\robert\desktop\facultate\facultate semestrul 2\oop\attempt2\attempt2\ui.c(212): warning C4047: 'initializing': 'DynamicArray *' differs in levels of indirection from 'int'
+c:\users\robert\desktop\facultate\facultate semestrul 2\oop\attempt2\attempt2\ui.c(314): warning C4013: 'redo' undefined; assuming extern returning int
+  Generating Code...
+c:\users\robert\desktop\facultate\facultate semestrul 2\oop\attempt2\attempt2\operationsstack.c(94): warning C4715: 'pop': not all control paths return a value
+  Attempt2.vcxproj -> C:\Users\Robert\Desktop\Facultate\Facultate Semestrul 2\OOP\Attempt2\Debug\Attempt2.exe
